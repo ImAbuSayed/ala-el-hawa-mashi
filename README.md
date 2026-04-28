@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 388bdc3053a5d3d27cefb99df1728de04ba7c615
+> روحي تسافر في عينيك
+> كل نبضة بتناديك
+> الغرام مكتوب عليك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
