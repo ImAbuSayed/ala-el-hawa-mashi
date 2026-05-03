@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ala El Hawa Mashi |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 29, 2026 |
+| Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ala-el-hawa-mashi/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
