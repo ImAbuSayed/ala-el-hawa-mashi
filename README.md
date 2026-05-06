@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ala-el-hawa-mashi/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Ala El Hawa Mashi](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
